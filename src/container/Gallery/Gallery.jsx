@@ -21,7 +21,6 @@ const Gallery = () => {
       current.scrollLeft += 300;
     }
   };
-
   return (
     <div className="app__gallery flex__center">
       <div className="app__gallery-content">
